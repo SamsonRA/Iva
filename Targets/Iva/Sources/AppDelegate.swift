@@ -1,7 +1,7 @@
 import UIKit
 import IvaKit
 import IvaUI
-
+import Foundation
 
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
